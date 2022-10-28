@@ -1,6 +1,11 @@
 # VectorAdam for Rotation Equivariant Geometry Optimization
 
-This repository is the official PyTorch implementation of [VectorAdam for Rotation Equivariant Geometry Optimization]. 
+This repository is the official PyTorch implementation of 
+
+VectorAdam for Rotation Equivariant Geometry Optimization  
+[Selena Ling](https://www.iszihan.github.io), [Nicholas Sharp](https://nmwsharp.com/), [Alec Jacobson](https://www.cs.toronto.edu/~jacobson/) 
+
+NeurIPS 2022
 
 ## Requirements
 
